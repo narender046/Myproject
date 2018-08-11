@@ -7,12 +7,14 @@ pipeline{
 
          "echo testing....."
          }
+     }  
       stage('Build'){
      
      steps {
 
          "echo testing....."
          }
+      }   
          stage('Deploy'){
      
      steps {
